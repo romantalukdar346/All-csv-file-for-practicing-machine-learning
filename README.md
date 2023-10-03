@@ -7,5 +7,5 @@
 5. **[Numpy](https://github.com/romantalukdar346/Numpy)**
 6. **[Machine learning](https://github.com/romantalukdar346/Machine_learning)**
 
-<font color="blue">**Those files are used for practicing above topics**</font>
+<font color="blue">**Those files are used for practicing above topics. Find the file you need for the required toipc**</font>
 
